@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book", "Book\Book.csproj", "{E1502721-14B4-4F72-86D6-1FA7BF10B188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figure", "Figure\Figure.csproj", "{84E59606-B95B-4343-8C96-045EAFD742D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoice", "Invoice\Invoice.csproj", "{769ED225-5220-4EFA-B6B1-D5D52DA0413C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_3", "Rectangle\Lab_3.csproj", "{5533E645-39D7-4753-BB11-D270D23D4456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1502721-14B4-4F72-86D6-1FA7BF10B188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1502721-14B4-4F72-86D6-1FA7BF10B188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1502721-14B4-4F72-86D6-1FA7BF10B188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1502721-14B4-4F72-86D6-1FA7BF10B188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E59606-B95B-4343-8C96-045EAFD742D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E59606-B95B-4343-8C96-045EAFD742D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E59606-B95B-4343-8C96-045EAFD742D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E59606-B95B-4343-8C96-045EAFD742D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{769ED225-5220-4EFA-B6B1-D5D52DA0413C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769ED225-5220-4EFA-B6B1-D5D52DA0413C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769ED225-5220-4EFA-B6B1-D5D52DA0413C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769ED225-5220-4EFA-B6B1-D5D52DA0413C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5533E645-39D7-4753-BB11-D270D23D4456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5533E645-39D7-4753-BB11-D270D23D4456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5533E645-39D7-4753-BB11-D270D23D4456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5533E645-39D7-4753-BB11-D270D23D4456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
